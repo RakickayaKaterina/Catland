@@ -1,5 +1,5 @@
 package com.bolkunets.kate.catland.model;
 
 public enum Breed {
-        BRITISH, SCOTLAND;
+    BRITISH_SHORTHAIR, SCOTTISH, BENGAL, MAINE_COON, PERSIAN;
 }
