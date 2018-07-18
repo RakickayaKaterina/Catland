@@ -13,7 +13,7 @@ public class Address {
     private String region;
     @Column(nullable = false)
     private String city;
-    private  String street;
+    private String street;
     private Integer flat_number;
     private Integer house_number;
 
